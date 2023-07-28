@@ -5,7 +5,7 @@
  * @argv: argument vector
  * @name: file name
  *
- * Return: NULL.
+ * Return: NULL
  */
 void execmd(char **argv, char *name)
 {
