@@ -11,6 +11,7 @@
 char *_strcat(char *dest, char *src)
 {
   char *ret = dest;
+
   while (*dest)
     dest++
       while (*src)
@@ -24,10 +25,12 @@ return (ret);
 *
 * Return: pointer to the duplicated string
 */
+
 char *_strdup(const char *str)
 {
   int length = 0;
   char *ret;
+  
   if (str == NULL)
     return (NUUL);
 while (*str++)
