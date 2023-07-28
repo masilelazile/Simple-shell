@@ -19,6 +19,5 @@ int tok_num(char *line)
         toknum++;
         token = strtok(NULL, delim);
     }
-
     return toknum;
 }
