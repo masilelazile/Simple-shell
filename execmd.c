@@ -2,8 +2,8 @@
 
 /**
  * execmd - execute a command
- * @argv: argument vector
- * @name: file name
+ * @argv: argument vector.
+ * @name: file name.
  *
  * Return: NULL
  */
