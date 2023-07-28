@@ -1,4 +1,3 @@
 SIMPLE SHELL
 
-Group project of two, 
-Mandatory tasks
+Group project of two
