@@ -1,2 +1,4 @@
-# Simple-shell
-Group project 
+SIMPLE SHELL
+
+Group project of two 
+Mandatory tasks
