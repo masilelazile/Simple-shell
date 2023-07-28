@@ -6,6 +6,7 @@
  *
  * Return: number of tokens counted
  */
+
 int tok_num(char *line)
 {
 	char *token;
